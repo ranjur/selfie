@@ -1,0 +1,17 @@
+.idea*
+*~
+*.db
+*.pyc
+*.pot
+*.html.py
+.project*
+*.pid
+*.out
+*.sql
+*.dump
+.coverage
+*build*
+dist*
+*egg-info*
+*_local.sh
+*.log
